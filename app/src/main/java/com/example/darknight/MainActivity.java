@@ -53,7 +53,7 @@ public class MainActivity
                                     .MODE_NIGHT_NO);
             btnToggleDark
                     .setText(
-                            "Enable Dark Mode");
+                            "ACTIVER MODE NUIT");
         }
 
         btnToggleDark.setOnClickListener(
